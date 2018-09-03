@@ -1,0 +1,7 @@
+{"Full_Name":"Bopak","NIM":"1201163389","Gender":"B","Address":"Jalan Berlubang","_id":"7M6BfTvnptq42I3W"}
+{"Full_Name":"Bojong","NIM":"1201163390","Gender":"L","Address":"Jalan ada polisi tidur","_id":"DQB5CYQ7sPTQw2tp"}
+{"Full_Name":"Bagong","NIM":"1201163393","Gender":"B","Address":"Jalan Potong","_id":"WiMGynQyuhSiMCM0"}
+{"Full_Name":"Brandal","NIM":"1201163392","Gender":"L","Address":"Jalan tikus","_id":"XR83ivR7NNepabvT"}
+{"Full_Name":"Brosot","NIM":"1201163391","Gender":"L","Address":"Jalan macet","_id":"b67pW5Vi1JhsLbHh"}
+{"Full_Name":"Barongsai","NIM":"1201163394","Gender":"P","Address":"Jalan Keramat","_id":"gky2x7k1qjVos2PX"}
+{"Full_Name":"Bohai","NIM":"1201163391","Gender":"P","Address":"Jalan Jalan","_id":"y1NRNqeN1RfteXav"}

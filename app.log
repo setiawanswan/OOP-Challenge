@@ -1,0 +1,8 @@
+[Fri Aug 24 2018 17:16:57 GMT+0700 (SE Asia Standard Time)] INFO This is an information about something
+[Fri Aug 24 2018 17:16:57 GMT+0700 (SE Asia Standard Time)] ERROR We cant divide any numbers by zero.
+[Fri Aug 24 2018 17:16:57 GMT+0700 (SE Asia Standard Time)] NOTICE Someone loves your status.
+[Fri Aug 24 2018 17:16:57 GMT+0700 (SE Asia Standard Time)] WARNING Insufficient funds.
+[Fri Aug 24 2018 17:16:57 GMT+0700 (SE Asia Standard Time)] DEBUG This is debug message.
+[Fri Aug 24 2018 17:16:57 GMT+0700 (SE Asia Standard Time)] ALERT Achtung! Achtung.
+[Fri Aug 24 2018 17:16:57 GMT+0700 (SE Asia Standard Time)] CRITICAL Medic!! Weve got critical damages.
+[Fri Aug 24 2018 17:16:57 GMT+0700 (SE Asia Standard Time)] EMERGENCY System hung. Contact system administrator immediately!
